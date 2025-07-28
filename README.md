@@ -1,10 +1,4 @@
-# I'm Navyansh Kothari! 
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Technical+Growth+Analyst;5⭐+HackerRank+Coder;Always+learning+new+things)](https://git.io/typing-svg)
-
-</div>
+# Navyansh's README: 
 
 ## 🚀 About Me
 
