@@ -21,7 +21,7 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -104,6 +104,7 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 - 🎓 **Google Cloud Computing Foundations** by IIT Kharagpur (Top 5%)
 - 🐍 **IIT Bombay Training** in Java, MySQL, PHP, Python
 - 📚 **NPTEL Certifications** from IIT Kanpur (97/100 & 100/100)
+- 🏫 **School Topper in Physics** - Class XII (94.8%)
 - 💡 Consistent **LeetCode** problem solver
 - 🎥 **YouTube Content Creator** on DSA and Tech with 2 active channels
 
@@ -119,15 +120,25 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 - Developed secure RESTful APIs with JWT authentication
 - Collaborated in agile development environment
 
-## 📚 Education
+## 🎓 Education
 
 **B.Tech in Computer Science and Engineering**  
 *Vellore Institute of Technology, Chennai (2021-2025)*  
 **CGPA: 8.3**
 
+**Senior Secondary Education (Class XII)**  
+*Chinmaya Vidyalaya, CBSE (2020-2021)*  
+**Percentage: 94.8%** | **🏆 School Topper in Physics**
+
+**Secondary Education (Class X)**  
+*Chinmaya Vidyalaya, CBSE (2018-2019)*  
+**Percentage: 90.2%**
+
 ## 📝 Publications
 
 **"Towards Insider Threat Resilience: A Proposed Mitigation Model"** - IEEE Xplore
+- Developed a Windows app using Flutter and Dart for automated Python script protection
+- Implemented IP input handling, file processing, executable generation, and basic steganography
 
 ## 🤝 Connect with me
 
