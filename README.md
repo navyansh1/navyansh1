@@ -73,8 +73,6 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
   
 ![Navyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navyansh1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navyansh1&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyansh1&theme=radical)
 
 </div>
