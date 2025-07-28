@@ -8,7 +8,7 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 - 👨‍💻 My portfolio website at [navygeeks.in](https://navygeeks.in)
 - 📺 I create content on **DSA** and **Tech** on my YouTube channels: [NavyCodes](https://youtube.com/@navycodes) & [NavyGeeks](https://youtube.com/@navygeeks)
 - 📫 How to reach me: **navycodes@gmail.com**
-- ⚡ Fun fact: I'm a **5⭐ HackerRank coder** and **AWS Certified Cloud Practitioner**!
+- ⚡ Fun fact: I'm a **5 star HackerRank coder** and **AWS Certified Cloud Practitioner**!
 
 ## 🛠️ Tech Stack
 
