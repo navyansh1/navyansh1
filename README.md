@@ -157,8 +157,6 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 
 <div align="center">
   
-*"Building the future, one line of code at a time"* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=navyansh1&color=brightgreen)
+*"Your life is a movie and you are the director and protagonist"* ✨
 
 </div>
