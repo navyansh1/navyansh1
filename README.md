@@ -156,6 +156,6 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 
 <div align="center">
   
-*"Your life is a movie and you are the director and protagonist"* ✨
+*"Life's a movie - you're the director and star"*
 
 </div>
