@@ -1,4 +1,4 @@
-# Hi there, I'm Navyansh Kothari! 👋
+# I'm Navyansh Kothari! 
 
 <div align="center">
   
