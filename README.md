@@ -4,11 +4,11 @@
 
 I'm a passionate **Computer Science Engineering** student at VIT Chennai with a strong foundation in full-stack development and growth analytics. Currently working as a Technical Growth Analyst at **Hitwicket**, where I develop HTML5 playable ads and conduct growth analysis to optimize user acquisition.
 
-- 🔭 I'm currently working on **growth optimization** and **mobile ad technologies**
+
 - 👨‍💻 My portfolio website at [navygeeks.in](https://navygeeks.in)
 - 📺 I create content on **DSA** and **Tech** on my YouTube channels: [NavyCodes](https://youtube.com/@navycodes) & [NavyGeeks](https://youtube.com/@navygeeks)
 - 📫 How to reach me: **navycodes@gmail.com**
-- ⚡ Fun fact: I'm a **5 star HackerRank coder** and **AWS Certified Cloud Practitioner**!
+- ⚡ **5 star HackerRank coder** and **AWS Certified Cloud Practitioner**!
 
 ## 🛠️ Tech Stack
 
