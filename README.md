@@ -1,7 +1,4 @@
 # Navyansh's README: 
-
-## About Me
-
 I'm a passionate **Computer Science Engineering** student at VIT Chennai with a strong foundation in full-stack development and growth analytics. Currently working as a Technical Growth Analyst at **Hitwicket**, where I develop HTML5 playable ads and conduct growth analysis to optimize user acquisition.
 
 
