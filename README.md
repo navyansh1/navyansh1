@@ -81,7 +81,7 @@ I'm a passionate **Computer Science Engineering** student at VIT Chennai with a 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/navycodes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/navyansh1)
 
-**🏆 HackerRank: 5⭐ Rating** | **💡 Active LeetCode Problem Solver**
+** HackerRank: 5⭐ Rating** | ** Active LeetCode Problem Solver**
 
 </div>
 
