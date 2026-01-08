@@ -1,4 +1,4 @@
-#  Navyansh's ReadME  
+#  Navyansh's README  
 
 I'm a **Computer Science Engineer graduate from Vellore Institute of Technology of class 2025** working as a **Data Scientist & Backend GenAI Engineer** at **Ganit Inc**.  
 I specialize in **backend systems, applied machine learning, and production-grade GenAI solutions**, with hands-on experience building scalable APIs, RAG systems, and cloud-native services.
