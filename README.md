@@ -7,7 +7,7 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ---
 
-## 🚀 What I Do Best
+## What I Do Best 🚀 
 - **Backend Engineering** (FastAPI, Node.js, scalable APIs)
 - **GenAI Engineering** (RAG, LangChain, LangGraph, LLM orchestration)
 - **Data Science & Machine Learning** (end-to-end pipelines, modeling, evaluation)
@@ -25,7 +25,7 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack 🛠️
 
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
