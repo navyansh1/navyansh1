@@ -1,5 +1,7 @@
 # Navyansh's README: 
-I'm a passionate **Computer Science Engineering** student at Vellore Institute of Technology with a strong foundation in full-stack development and growth analytics. Currently working as a **Data Scientist** and **Backend Gen AI Engineer** at **Ganit Inc** and previously worked as Technical Growth Analyst at **Hitwicket**, where I develop HTML5 playable ads and conduct growth analysis to optimize user acquisition.
+I'm a passionate **Computer Science Engineering** student at Vellore Institute of Technology with a strong foundation in full-stack development and growth analytics. 
+
+Currently working as a **Data Scientist** and **Backend Gen AI Engineer** at **Ganit Inc** and previously worked as Technical Growth Analyst at **Hitwicket**, where I develop HTML5 playable ads and conduct growth analysis to optimize user acquisition.
 
 
 - My portfolio website at [navygeeks.in](https://navygeeks.in)
