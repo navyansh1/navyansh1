@@ -191,6 +191,6 @@ Vellore Institute of Technology, Chennai *(2021–2025)*
 
 <div align="center">
 
-**“Build systems that scale. Models that matter.”**
+*"Life's a movie - you're the director and protagonist"*
 
 </div>
