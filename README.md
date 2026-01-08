@@ -84,6 +84,43 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+## 💼 Experience
+
+### Data Scientist & Backend GenAI Engineer  
+**Ganit Inc** *(Present)*
+- Designed and deployed GenAI PoCs for enterprise use cases
+- Built RAG pipelines with optimized embedding strategies
+- Developed FastAPI backends for ML & LLM services
+- Worked on AWS-native architectures
+
+---
+
+### Technical Growth Analyst  
+**Hitwicket**
+- Built HTML5 playable ads increasing installs by **25%**
+- Growth analysis using SQL & MongoDB
+- Designed internal analytics tools and dashboards
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**  
+Vellore Institute of Technology, Chennai *(2021–2025)*  
+**CGPA: 8.3**
+
+---
+
+## 🏆 Achievements & Certifications
+- ⭐ 5-Star HackerRank Coder
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Google Cloud Computing Foundations – IIT Kharagpur (Top 5%)
+- 📚 NPTEL (IIT Kanpur): 97/100 & 100/100
+- 🧠 Active LeetCode & DSA problem solver
+- 🎥 Tech & DSA content creator on YouTube
+
 ---
 
 ## 🌟 Featured Projects
@@ -132,43 +169,6 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 - Scalable response tracking
 
 ---
-
-## 💼 Experience
-
-### Data Scientist & Backend GenAI Engineer  
-**Ganit Inc** *(Present)*
-- Designed and deployed GenAI PoCs for enterprise use cases
-- Built RAG pipelines with optimized embedding strategies
-- Developed FastAPI backends for ML & LLM services
-- Worked on AWS-native architectures
-
----
-
-### Technical Growth Analyst  
-**Hitwicket**
-- Built HTML5 playable ads increasing installs by **25%**
-- Growth analysis using SQL & MongoDB
-- Designed internal analytics tools and dashboards
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering**  
-Vellore Institute of Technology, Chennai *(2021–2025)*  
-**CGPA: 8.3**
-
----
-
-## 🏆 Achievements & Certifications
-- ⭐ 5-Star HackerRank Coder
-- ☁️ AWS Certified Cloud Practitioner
-- 🎓 Google Cloud Computing Foundations – IIT Kharagpur (Top 5%)
-- 📚 NPTEL (IIT Kanpur): 97/100 & 100/100
-- 🧠 Active LeetCode & DSA problem solver
-- 🎥 Tech & DSA content creator on YouTube
-
-
 
 ## 🤝 Connect With Me
 
