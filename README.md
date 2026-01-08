@@ -25,8 +25,14 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ---
 ## 📊 GitHub Stats
-<div align="center"> ![Navyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navyansh1&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyansh1&theme=radical) </div>
 
+<div align="center">
+
+![Navyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=navyansh1&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=navyansh1&theme=radical)
+
+</div>
 ---
 
 ##  Tech Stack 🛠️
