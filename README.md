@@ -5,7 +5,7 @@ I'm a **Computer Science Engineer graduate from Vellore Institute of Technology 
 I currently work as a **Data Scientist & Backend GenAI Engineer** at **Ganit Inc**.  
 
 
-I specialize in **backend systems, applied machine learning, and production-grade GenAI solutions**, with hands-on experience building scalable APIs, RAG systems, and cloud-native services.
+I specialize in **backend systems, React Native mobie apps, applied machine learning, and production-grade GenAI solutions**, with hands-on experience building scalable APIs, RAG systems, and cloud-native services.
 
 Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I combined engineering with analytics to optimize user acquisition and product growth.
 
@@ -13,6 +13,7 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ## What I Do Best 🚀 
 - **Backend Engineering** (FastAPI, Node.js, scalable APIs)
+- **React Native App Development** iOS and Android fullstack apps with Firebase, Supabase as backend
 - **GenAI Engineering** (RAG, LangChain, LangGraph, LLM orchestration)
 - **Data Science & Machine Learning** (end-to-end pipelines, modeling, evaluation)
 - **Cloud & MLOps** (AWS-native architectures)
