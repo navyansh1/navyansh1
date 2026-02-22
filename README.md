@@ -13,7 +13,7 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ## What I Do Best 🚀 
 - **Backend Engineering** (FastAPI, Node.js, scalable APIs)
-- **React Native App Development** iOS and Android fullstack apps with Firebase, Supabase as backend
+- **React Native App Development** (iOS and Android fullstack apps with Firebase, Supabase as backend)
 - **GenAI Engineering** (RAG, LangChain, LangGraph, LLM orchestration)
 - **Data Science & Machine Learning** (end-to-end pipelines, modeling, evaluation)
 - **Cloud & MLOps** (AWS-native architectures)
