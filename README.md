@@ -2,7 +2,7 @@
 
 I'm a **Computer Science Engineer graduate from Vellore Institute of Technology of class 2025** 
 
-I currently work as a **Data Scientist & Backend GenAI Engineer** at **Ganit Inc**.  
+I currently work as a **GenAI Engineer & Data Scientist** at **Ganit Inc**.  
 
 
 I specialize in **backend systems, React Native mobie apps, applied machine learning, and production-grade GenAI solutions**, with hands-on experience building scalable APIs, RAG systems, and cloud-native services.
