@@ -111,17 +111,17 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 **B.Tech – Computer Science & Engineering**  
 Vellore Institute of Technology, Chennai *(2021–2025)*  
-**CGPA: 8.3**
 
 ---
 
 ## 🏆 Achievements & Certifications
 - ⭐ 5-Star HackerRank Coder
 - ☁️ AWS Certified Cloud Practitioner
+- ☁️ AWS Certified AI Practitioner
+- ☁️ Claude Certified Architect
 - 🎓 Google Cloud Computing Foundations – IIT Kharagpur (Top 5%)
 - 📚 NPTEL (IIT Kanpur): 97/100 & 100/100
-- 🧠 Active LeetCode & DSA problem solver
-- 🎥 Tech & DSA content creator on YouTube
+- 🎥 Tech Content creator on YouTube
 
 ---
 
