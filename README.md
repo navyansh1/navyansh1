@@ -23,8 +23,7 @@ Previously, I worked as a **Technical Growth Analyst at Hitwicket**, where I com
 
 ### 🌐 Portfolio & Content
 - 🌍 Portfolio: https://navygeeks.in
-- 🎥 YouTube (DSA & Tech):  
-  - NavyCodes → https://youtube.com/@navycodes  
+- 🎥 YouTube (Tech):  
   - NavyGeeks → https://youtube.com/@navygeeks
 - 📧 Reach me at: **navycodes@gmail.com**
 
